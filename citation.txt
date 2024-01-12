@@ -1,0 +1,8 @@
+@inproceedings{REPO048,
+    author = "Hu, Qingyong and Yang, Bo and Fang, Guangchi and Guo, Yulan and Leonardis, Ale{\v{s}} and Trigoni, Niki and Markham, Andrew",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "600--619",
+    title = "{SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds}",
+    year = "2022"
+}
